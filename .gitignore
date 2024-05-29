@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pdm.toml
+.pdm.lock
+*.pkl
+*.db
+.DS_Store
+.robot
+__pycache__/
+.robottemp
+__pycache__/
